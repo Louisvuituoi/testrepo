@@ -1,2 +1,3 @@
-hello may cung kelly
-enter la sai nhe
+#!/bin/bash/
+echo "hello may cung kelly"
+echo "enter la sai nhe"
